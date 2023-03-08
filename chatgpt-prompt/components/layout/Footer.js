@@ -171,7 +171,7 @@ const Footer = () => {
                     <div className="footer-bottom mt-20">
                         <div className="row">
                             <div className="col-md-6">
-                                <span className="color-gray-400 text-body-lead">© Agon Official 2022</span>
+                                <span className="color-gray-400 text-body-lead">© GPTPRO 2023</span>
                                 <Link href="/page-terms" legacyBehavior>
                                     <a className="text-body-text color-gray-400 ml-50">Privacy policy</a>
                                 </Link>

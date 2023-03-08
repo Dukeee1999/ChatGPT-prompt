@@ -327,6 +327,7 @@ li.hr span {
   padding: 4px 8px;
   text-decoration-color: #fff;
   font-weight: 800;
+  font-size: 17px;
   background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 10px;
@@ -6880,7 +6881,7 @@ label {
 
 .list-search-popular {
   padding: 0px;
-  margin: 25px 0px 0px 0px;
+  margin: 20px 0px 0px 0px;
 }
 .list-search-popular li {
   display: inline-block;
